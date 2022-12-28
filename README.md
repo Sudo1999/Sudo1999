@@ -4,8 +4,6 @@ I started developing with C# and .NET technology (online study project) and I al
 
 My first work can be viewed at http://www.lignesdecode.net!
 
-[Projet redimensionné](https://user-images.githubusercontent.com/105590069/209781931-dcdc9a98-2cb0-4cfa-89ab-9dee32729b87.png)
-
 
 <!--
 **Sudo1999/Sudo1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
