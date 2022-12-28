@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I started developing with C# and .NET technology (online project) and I also practice Java (Spring Boot) and Angular.
+
+My first project can be viewed at http://www.lignesdecode.net
+
+
+
 <!--
 **Sudo1999/Sudo1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
