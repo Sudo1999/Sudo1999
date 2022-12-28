@@ -1,10 +1,16 @@
+
 ### Hi there 👋
 
 I started developing with C# and .NET technology (online study project) and I also practice Java (Spring Boot) and Angular.
 
 My first work can be viewed at http://www.lignesdecode.net
 
-![Lignesdecode net 430x237](https://user-images.githubusercontent.com/105590069/209784219-e4449f71-c258-4024-b864-9bb23658d889.png)
+<p align="center">
+  ![Lignesdecode net 430x237](https://user-images.githubusercontent.com/105590069/209784219-e4449f71-c258-4024-b864-9bb23658d889.png)
+  <!--<img width="460" height="300" src="http://www.fillmurray.com/460/300">-->
+</p>
+
+
 
 
 
