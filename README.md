@@ -4,7 +4,12 @@ I started developing with C# and .NET technology (online study project) and I al
 
 My first work can be viewed at http://www.lignesdecode.net
 
-![Lignesdecode net](https://user-images.githubusercontent.com/105590069/209782438-77ef78e1-75e2-4f3b-9ac8-81e4d4c89911.png)
+<div style="margin: auto">
+  ![Lignesdecode net](https://user-images.githubusercontent.com/105590069/209783575-ea37d23c-6dfc-4152-a12d-a020460c06ca.png)
+
+  </div>
+
+
 
 
 
