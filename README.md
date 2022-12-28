@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I started developing with C# and .NET technology (online study project) and I also practice Java (Spring Boot) and Angular.
+I started developing with C# and .NET technology and I also practice Java (Spring Boot) and Angular.
 
 My first work can be viewed at http://www.lignesdecode.net
 
