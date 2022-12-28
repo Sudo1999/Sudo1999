@@ -2,9 +2,9 @@
 
 I started developing with C# and .NET technology (online study project) and I also practice Java (Spring Boot) and Angular.
 
-My first work can be viewed at http://www.lignesdecode.net
+My first work can be viewed at http://www.lignesdecode.net!
 
-![Welcome to the CarNet Cie site](https://user-images.githubusercontent.com/105590069/209781423-dba2378d-ad21-44c9-ae71-69c9ffb49ccf.png)
+[Projet redimensionné](https://user-images.githubusercontent.com/105590069/209781931-dcdc9a98-2cb0-4cfa-89ab-9dee32729b87.png)
 
 
 <!--
