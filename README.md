@@ -3,12 +3,10 @@
 
 I started developing with C# and .NET technology and I also practice Java (Spring Boot) and Angular.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/105590069/209787089-f92598fd-3b2c-417d-a6ac-41396ee4749d.png">
-</p>
-<p align="center">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/105590069/209787089-f92598fd-3b2c-417d-a6ac-41396ee4749d.png"><br>
   My first work can be viewed at http://www.lignesdecode.net
-</p>
+</div>
 
 
 <!--
