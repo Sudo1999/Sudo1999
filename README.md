@@ -2,7 +2,10 @@
 
 I started developing with C# and .NET technology (online study project) and I also practice Java (Spring Boot) and Angular.
 
-My first work can be viewed at http://www.lignesdecode.net!
+My first work can be viewed at http://www.lignesdecode.net
+
+![Projet redimensionné](https://user-images.githubusercontent.com/105590069/209782119-dae44931-5105-4a1f-a132-1b1aa3964723.png)
+
 
 
 <!--
