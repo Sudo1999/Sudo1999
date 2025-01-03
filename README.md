@@ -2,11 +2,7 @@
   
 Hi there 👋
 
-I started out developing in C# and .NET, and I'm now practicing Java (Spring Boot) and Angular.
-
-  <img src="https://user-images.githubusercontent.com/105590069/209787089-f92598fd-3b2c-417d-a6ac-41396ee4749d.png"><br>
-  
-  My first work can be viewed at<br> http://www.lignesdecode.net
+I started developing in C# (.NET), then in Java (Spring Boot) and Angular, and I am now a connector developer.
   
 </div>
 
