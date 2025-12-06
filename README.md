@@ -2,7 +2,7 @@
   
 Hi there 👋
 
-I started developing in C# (.NET), then in Java (Spring Boot) and Angular, and I am now a connector developer.
+I started development in C# (.NET), then in Java (Spring Boot) and Angular, and I'm now back to C# .NET as a connector developer.
   
 </div>
 
