@@ -1,8 +1,10 @@
-<div align="center">
-  <img style="width: 50px; height: auto; margin: 0 50px;" alt="Logo_C_Sharp" src="https://github.com/user-attachments/assets/1e34624c-1584-4593-8e35-aff360d7ac53" />
-  <img style="width: 50px; height: auto; margin: 0 50px;" alt="Logo BDD" src="https://github.com/user-attachments/assets/f94dd21c-85f0-4f9e-8454-5194e04553eb" />
-  <img style="width: 50px; height: auto; margin: 0 50px;" alt="Logo Java" src="https://github.com/user-attachments/assets/c7b2e7b0-f662-49fe-b3e6-812c986249d7" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="150"><img width="50" alt="Logo_C_Sharp" src="https://github.com/user-attachments/assets/1e34624c-1584-4593-8e35-aff360d7ac53" /></td>
+    <td align="center" width="150"><img width="50" alt="Logo BDD" src="https://github.com/user-attachments/assets/f94dd21c-85f0-4f9e-8454-5194e04553eb" /></td>
+    <td align="center" width="150"><img width="50" alt="Logo Java" src="https://github.com/user-attachments/assets/c7b2e7b0-f662-49fe-b3e6-812c986249d7" /></td>
+  </tr>
+</table>
 
 <div align="center">
   
