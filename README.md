@@ -1,8 +1,9 @@
 
-<img width="204" height="192" alt="Logo  NET" src="https://github.com/user-attachments/assets/dafd8aad-0986-4a96-b216-e616369ebe13" />
-<nbsp>
-<img width="450" height="450" alt="Logo BDD" src="https://github.com/user-attachments/assets/f94dd21c-85f0-4f9e-8454-5194e04553eb" />
-<img width="148" height="148" alt="Logo Java" src="https://github.com/user-attachments/assets/c7b2e7b0-f662-49fe-b3e6-812c986249d7" />
+<img width="91,0" height="102,4" alt="Logo_C_Sharp" src="https://github.com/user-attachments/assets/1e34624c-1584-4593-8e35-aff360d7ac53" />
+&nbsp;&nbsp;&nbsp;
+<img width="45,0" height="45,0" alt="Logo BDD" src="https://github.com/user-attachments/assets/f94dd21c-85f0-4f9e-8454-5194e04553eb" />
+&nbsp;&nbsp;&nbsp;
+<img width="14,8" height="14,8" alt="Logo Java" src="https://github.com/user-attachments/assets/c7b2e7b0-f662-49fe-b3e6-812c986249d7" />
 
 
 <div align="center">
