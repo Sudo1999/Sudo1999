@@ -1,4 +1,4 @@
-<table align="center" width="100%">
+<table align="center" width="100%" style="border: none;">
   <tr>
     <th align="center" width="30%"><img width="50" alt="Logo_C_Sharp" src="https://github.com/user-attachments/assets/1e34624c-1584-4593-8e35-aff360d7ac53" /></th>
     <th align="center" width="30%"><img width="50" alt="Logo BDD" src="https://github.com/user-attachments/assets/f94dd21c-85f0-4f9e-8454-5194e04553eb" /></th>
