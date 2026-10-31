@@ -5,12 +5,12 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img style="width: 50px; height: auto;" alt="Logo Java" src="https://github.com/user-attachments/assets/c7b2e7b0-f662-49fe-b3e6-812c986249d7" />
 </div>
-
+<p></p>
 <div align="center">
   
 Hi there 👋
 
-I started out as a C# (.NET) Developer, then worked with Java (Spring Boot) and Angular, before returning to C# as a Connector Developer.
+I started out as a C# (.NET) Developer, then worked with Java (Spring Boot) and Angular, before returning to C# as a Connector Developer. Let’s see what the future holds.
 
 </div>
 
