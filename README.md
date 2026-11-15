@@ -10,7 +10,9 @@
   
 Hi there 👋
 
-I started out as a C# (.NET) developer, then worked with Java (Spring Boot) and Angular, before returning to C# as a connector developer. Let’s see what the future holds.
+I started out as a C# (.NET) developer, then worked with Java (Spring Boot) and Angular, <br />
+before returning to C# as a connector developer. <br />
+Let’s see what the future holds. 
 
 </div>
 
